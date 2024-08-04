@@ -1,0 +1,14 @@
+E:\Taldo codigo\Jogo\Jogo\bin\Debug\Jogo.exe.config
+E:\Taldo codigo\Jogo\Jogo\bin\Debug\Jogo.exe
+E:\Taldo codigo\Jogo\Jogo\bin\Debug\Jogo.pdb
+E:\Taldo codigo\Jogo\Jogo\obj\Debug\Jogo.csproj.AssemblyReference.cache
+E:\Taldo codigo\Jogo\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+E:\Taldo codigo\Jogo\Jogo\obj\Debug\Jogo.exe
+E:\Taldo codigo\Jogo\Jogo\obj\Debug\Jogo.pdb
+C:\Users\pedro\Downloads\o jogo\Exer-o-jogo-main\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\pedro\Downloads\o jogo\Exer-o-jogo-main\Jogo\bin\Debug\Jogo.exe
+C:\Users\pedro\Downloads\o jogo\Exer-o-jogo-main\Jogo\bin\Debug\Jogo.pdb
+C:\Users\pedro\Downloads\o jogo\Exer-o-jogo-main\Jogo\obj\Debug\Jogo.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\o jogo\Exer-o-jogo-main\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\o jogo\Exer-o-jogo-main\Jogo\obj\Debug\Jogo.exe
+C:\Users\pedro\Downloads\o jogo\Exer-o-jogo-main\Jogo\obj\Debug\Jogo.pdb
